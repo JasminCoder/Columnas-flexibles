@@ -1,0 +1,25 @@
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.col {
+    flex: 1;
+    padding: 30px;
+    margin: 30px;
+    background-color: aqua; 
+}
+
+.col-2 {
+    flex: 2;
+    padding: 30px;
+    margin: 30px;
+    background-color: violet;
+}
+
+.col-3 {
+    flex: 3;
+    padding: 30px;
+    margin: 30px;
+    background-color: rgb(195, 206, 41);
+}
